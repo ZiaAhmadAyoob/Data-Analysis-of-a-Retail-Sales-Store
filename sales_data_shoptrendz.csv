@@ -1,0 +1,101 @@
+Order ID,Product Name,Category,City,Order Date,Units Sold,Unit Price,Total Sales
+1,Laptop,Electronics,Karachi,21-05-2023,7,39928.88,279502.16
+2,Laptop,Electronics,,14-02-2023,8,30133.59,241068.72
+3,Laptop,Electronics,,30-04-2023,7,22568.72,157981.04
+4,Bluetooth Speaker,Electronics,Peshawar,03-08-2023,7,3375.14,23625.98
+5,Wireless Mouse,Electronics,Lahore,24-12-2023,8,17018.58,136148.64
+6,Bluetooth Speaker,Electronics,Islamabad,22-02-2023,8,35549.59,284396.72
+7,Sneakers,Fashion,Peshawar,16-05-2023,6,3292.37,19754.22
+8,Smartwatch,Electronics,Karachi,13-07-2023,8,41705.91,333647.28
+9,Backpack,Fashion,Islamabad,23-10-2023,6,538.55,3231.3
+10,Bluetooth Speaker,Electronics,Islamabad,10-02-2023,5,31065.33,155326.65
+11,T-Shirt,Fashion,Islamabad,21-08-2023,6,849.78,5098.68
+12,Sneakers,Fashion,Islamabad,18-04-2023,9,14915.84,134242.56
+13,Laptop,Electronics,Peshawar,22-11-2023,3,19431.87,58295.61
+14,Smartphone,Electronics,Faisalabad,14-07-2023,4,29824.52,119298.08
+15,Smartwatch,Electronics,Lahore,17-12-2023,3,43067.05,129201.15
+16,Wireless Mouse,Electronics,Lahore,17-01-2023,7,8940.94,62586.58
+17,Laptop,Electronics,Lahore,18-10-2023,7,1156.62,8096.34
+18,Jeans,Fashion,Faisalabad,26-11-2023,9,48298.79,434689.11
+19,Bluetooth Speaker,Electronics,Peshawar,03-10-2023,2,19578.12,39156.24
+20,Backpack,Fashion,Faisalabad,05-07-2023,5,11929.24,59646.2
+21,Smartwatch,Electronics,Faisalabad,16-02-2023,7,30694.83,214863.81
+22,Smartphone,Electronics,Lahore,15-12-2023,8,2202.23,17617.84
+23,T-Shirt,Fashion,Peshawar,28-08-2023,1,13309.61,13309.61
+24,Wireless Mouse,Electronics,Karachi,16-12-2023,8,37890.39,303123.12
+25,Sneakers,Fashion,Karachi,31-05-2023,6,10793.11,64758.66
+26,Headphones,Electronics,Peshawar,02-04-2023,4,9650.3,38601.2
+27,Headphones,Electronics,Peshawar,08-11-2023,2,38869.07,77738.14
+28,Smartphone,Electronics,Peshawar,29-09-2023,2,20059.94,40119.88
+29,Jeans,Fashion,Karachi,27-02-2023,4,30096.05,120384.2
+30,Headphones,Electronics,Lahore,30-01-2023,8,28736.98,229895.84
+31,Laptop,Electronics,Karachi,06-09-2023,9,48078.02,432702.18
+32,Smartwatch,Electronics,Lahore,07-03-2023,5,19739.53,98697.65
+33,Smartphone,Electronics,Islamabad,28-09-2023,2,27214.76,54429.52
+34,Bluetooth Speaker,Electronics,Peshawar,20-12-2023,8,18159.29,145274.32
+35,Sneakers,Fashion,Faisalabad,22-09-2023,9,15165.54,136489.86
+36,Laptop,Electronics,Islamabad,11-01-2023,1,1274.0,1274.0
+37,Bluetooth Speaker,Electronics,Karachi,06-02-2023,9,38726.12,348535.08
+38,Laptop,Electronics,Karachi,19-06-2023,8,773.34,6186.72
+39,Jeans,Fashion,Lahore,04-10-2023,3,35489.44,106468.32
+40,Backpack,Fashion,Peshawar,31-08-2023,3,39613.69,118841.07
+41,T-Shirt,Fashion,Lahore,18-02-2023,5,46351.89,231759.45
+42,T-Shirt,Fashion,Faisalabad,28-08-2023,9,45790.5,412114.5
+43,Laptop,Electronics,Karachi,26-07-2023,9,31353.26,282179.34
+44,Laptop,Electronics,Lahore,09-04-2023,2,5222.8,10445.6
+45,T-Shirt,Fashion,Lahore,23-05-2023,7,15893.62,111255.34
+46,Laptop,Electronics,Faisalabad,09-10-2023,8,33463.16,267705.28
+47,Smartwatch,Electronics,Karachi,17-02-2023,8,14098.73,112789.84
+48,Smartphone,Electronics,Faisalabad,06-09-2023,3,23874.64,71623.92
+49,Wireless Mouse,Electronics,Lahore,14-07-2023,5,,
+50,Jeans,Fashion,Islamabad,05-08-2023,3,38158.86,114476.58
+51,Smartwatch,Electronics,Faisalabad,21-03-2023,7,38662.88,270640.16
+52,Wireless Mouse,Electronics,Peshawar,05-10-2023,7,2501.46,17510.22
+53,Wireless Mouse,Electronics,Peshawar,02-09-2023,3,2055.74,6167.22
+54,Smartphone,Electronics,Karachi,18-09-2023,7,24030.83,168215.81
+55,Backpack,Fashion,Karachi,12-12-2023,4,45424.54,181698.16
+56,Backpack,Fashion,Lahore,24-10-2023,7,30418.66,212930.62
+57,T-Shirt,Fashion,Peshawar,17-10-2023,4,47171.25,188685.0
+58,Bluetooth Speaker,Electronics,Islamabad,03-05-2023,7,14842.7,103898.9
+59,Headphones,Electronics,Faisalabad,11-06-2023,6,44083.16,264498.96
+60,Wireless Mouse,Electronics,Faisalabad,15-11-2023,9,5721.97,51497.73
+61,Laptop,Electronics,Peshawar,20-04-2023,4,44681.67,178726.68
+62,Sneakers,Fashion,Karachi,06-05-2023,7,44856.52,313995.64
+63,Smartwatch,Electronics,Islamabad,10-11-2023,7,45388.01,317716.07
+64,Smartwatch,Electronics,Karachi,08-12-2023,1,11782.79,11782.79
+65,Laptop,Electronics,Lahore,16-05-2023,9,40991.73,368925.57
+66,Smartwatch,Electronics,Lahore,20-05-2023,9,15586.67,140280.03
+67,Sneakers,Fashion,Lahore,18-12-2023,6,25781.99,154691.94
+68,Jeans,Fashion,Islamabad,27-01-2023,9,24499.08,220491.72
+69,Headphones,Electronics,Karachi,02-01-2023,1,6433.34,6433.34
+70,Headphones,Electronics,Lahore,15-08-2023,8,47174.03,377392.24
+71,Wireless Mouse,Electronics,Karachi,08-02-2023,6,11328.83,67972.98
+72,Smartphone,Electronics,Peshawar,19-01-2023,8,35299.44,282395.52
+73,Smartphone,Electronics,Faisalabad,07-03-2023,1,,
+74,Wireless Mouse,Electronics,Islamabad,18-04-2023,4,12720.37,50881.48
+75,Sneakers,Fashion,Peshawar,28-07-2023,7,25113.8,175796.6
+76,Bluetooth Speaker,Electronics,,01-04-2023,1,7830.3,7830.3
+77,Sneakers,Fashion,Faisalabad,09-12-2023,8,2325.9,18607.2
+78,Headphones,Electronics,Lahore,26-12-2023,1,48842.44,48842.44
+79,Jeans,Fashion,Lahore,13-04-2023,6,2136.01,12816.06
+80,Headphones,Electronics,Lahore,25-04-2023,1,,
+81,Sneakers,Fashion,Islamabad,05-02-2023,2,26781.26,53562.52
+82,Smartwatch,Electronics,Faisalabad,14-12-2023,6,12481.74,74890.44
+83,Wireless Mouse,Electronics,Karachi,14-05-2023,4,4502.24,18008.96
+84,Headphones,Electronics,Karachi,25-02-2023,8,12263.06,98104.48
+85,Sneakers,Fashion,Faisalabad,07-11-2023,6,18705.27,112231.62
+86,Backpack,Fashion,Lahore,11-05-2023,4,,
+87,Smartwatch,Electronics,Peshawar,18-12-2023,6,27020.85,162125.1
+88,Bluetooth Speaker,Electronics,Islamabad,09-08-2023,1,7960.52,7960.52
+89,Sneakers,Fashion,Peshawar,10-06-2023,6,34942.73,209656.38
+90,Headphones,Electronics,Peshawar,08-06-2023,3,29749.2,89247.6
+91,Headphones,Electronics,Peshawar,07-03-2023,4,1321.1,5284.4
+92,T-Shirt,Fashion,Lahore,12-11-2023,3,40570.3,121710.9
+93,Wireless Mouse,Electronics,Islamabad,27-05-2023,4,32436.05,129744.2
+94,Backpack,Fashion,Islamabad,27-08-2023,4,47055.9,188223.6
+95,Smartwatch,Electronics,Faisalabad,28-03-2023,8,19643.4,157147.2
+96,Backpack,Fashion,Islamabad,17-02-2023,2,41966.65,83933.3
+97,Headphones,Electronics,,12-04-2023,9,6116.94,55052.46
+98,Jeans,Fashion,Peshawar,07-02-2023,7,27301.67,191111.69
+99,Backpack,Fashion,Lahore,23-12-2023,3,11813.23,35439.69
+100,Smartphone,Electronics,Karachi,24-02-2023,9,26073.48,234661.32
